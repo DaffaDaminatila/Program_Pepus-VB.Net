@@ -1,0 +1,15 @@
+C:\Users\daffa\onedrive\documents\visual studio 2010\Projects\UTSmt4\UTSmt4\bin\Debug\UTSmt4.exe.config
+C:\Users\daffa\onedrive\documents\visual studio 2010\Projects\UTSmt4\UTSmt4\obj\x86\Debug\UTSmt4.vbproj.ResolveComReference.cache
+C:\Users\daffa\onedrive\documents\visual studio 2010\Projects\UTSmt4\UTSmt4\bin\Debug\UTSmt4.exe
+C:\Users\daffa\onedrive\documents\visual studio 2010\Projects\UTSmt4\UTSmt4\bin\Debug\UTSmt4.pdb
+C:\Users\daffa\onedrive\documents\visual studio 2010\Projects\UTSmt4\UTSmt4\bin\Debug\UTSmt4.xml
+C:\Users\daffa\onedrive\documents\visual studio 2010\Projects\UTSmt4\UTSmt4\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\daffa\onedrive\documents\visual studio 2010\Projects\UTSmt4\UTSmt4\obj\x86\Debug\UTSmt4.vbproj.GenerateResource.Cache
+C:\Users\daffa\onedrive\documents\visual studio 2010\Projects\UTSmt4\UTSmt4\obj\x86\Debug\UTSmt4.exe
+C:\Users\daffa\onedrive\documents\visual studio 2010\Projects\UTSmt4\UTSmt4\obj\x86\Debug\UTSmt4.xml
+C:\Users\daffa\onedrive\documents\visual studio 2010\Projects\UTSmt4\UTSmt4\obj\x86\Debug\UTSmt4.pdb
+C:\Users\daffa\onedrive\documents\visual studio 2010\Projects\UTSmt4\UTSmt4\obj\x86\Debug\WindowsApplication1.Menu.resources
+C:\Users\daffa\onedrive\documents\visual studio 2010\Projects\UTSmt4\UTSmt4\obj\x86\Debug\WindowsApplication1.data_book.resources
+C:\Users\daffa\OneDrive\Documents\Visual Studio 2010\Projects\UTSmt4\UTSmt4\obj\x86\Debug\UTSmt4.vbproj.AssemblyReference.cache
+C:\Users\daffa\OneDrive\Documents\Visual Studio 2010\Projects\UTSmt4\UTSmt4\obj\x86\Debug\UTSmt4.vbproj.CoreCompileInputs.cache
+C:\Users\daffa\OneDrive\Documents\Visual Studio 2010\Projects\UTSmt4\UTSmt4\obj\x86\Debug\UTSmt4.vbproj.SuggestedBindingRedirects.cache
